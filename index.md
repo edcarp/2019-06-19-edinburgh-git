@@ -11,7 +11,7 @@ humantime: "10:00 - 16:00"    # human-readable times for the workshop (e.g., "9:
 startdate: 2018-10-09      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2018-10-09        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
 instructor: ["David McKain"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
-helper: ["John Irelan, Ewan McDowall, Sean McGeever, Mario Antonioletti, Giacomo Peru"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
+helper: ["John Ireland, Ewan McDowall, Sean McGeever, Mario Antonioletti, Giacomo Peru"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["john.ireland@igmm.ed.ac.uk"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
 collaborative_notes: https://pad.carpentries.org/2018-10-08-edinburgh         # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
@@ -186,7 +186,7 @@ and our administrator may contact you if we need any extra information.</h4>
 
 {% comment %} 
  SURVEYS - DO NOT EDIT SURVEY LINKS 
-{% endcomment %}
+ 
 <h2 id="surveys">Surveys</h2>
 <p>Please be sure to complete these surveys before and after the workshop.</p>
 {% if site.carpentry == "swc" %} 
@@ -201,7 +201,7 @@ and our administrator may contact you if we need any extra information.</h4>
 {% endif %}
 
 <hr/>
-
+{% endcomment %}
 
 {% comment %}
   SCHEDULE
