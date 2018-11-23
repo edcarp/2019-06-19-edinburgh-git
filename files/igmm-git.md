@@ -182,6 +182,7 @@ For more options see: https://git.wiki.kernel.org/index.php/GitHosting
 <img src="imgs/GitLabNewProject.png" alt="Sign up to GitHub 1" style="background:none; border:none; box-shadow:none;">
 
 ----
+
 ## Create a new project (2)
 
 <img src="imgs/GitLabNewProject2.png" alt="Sign up to GitHub 1" style="background:none; border:none; box-shadow:none;">
