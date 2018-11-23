@@ -162,7 +162,6 @@ From: http://www.phdcomics.com/comics/archive.php?comicid=1531
 
 For more options see: https://git.wiki.kernel.org/index.php/GitHosting
 
-----
 ---
 
 # GitLab
